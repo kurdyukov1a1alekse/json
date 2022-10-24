@@ -1,5 +1,6 @@
 {
    "card": {
+      "accessibility":"Великая Ума Турман",
       "type": "list_card",
       "paddings": {
          "bottom": "9x"
