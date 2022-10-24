@@ -1,0 +1,56 @@
+{
+   "card": {
+      "type": "list_card",
+      "paddings": {
+         "bottom": "9x"
+      },
+      "cells": [
+         {
+            "type": "image_cell_view",
+            "content": {
+               "url": "https://cdn.sberdevices.ru/VA/images/Keanu_Reeves.jpg",
+               "hash": "7b14b751b8ea164f661f2a033a335b82",
+               "size": {
+                  "aspect_ratio": 1.2802734375,
+                  "width": "resizable"
+               }
+            }
+         },
+         {
+            "type": "text_cell_view",
+            "content": {
+               "text": "Киану Чарльз Ривз — канадский актёр, кинорежиссёр, кинопродюсер и музыкант. Наиболее известен своими ролями в киносериях «Матрица», «Билл и Тед» и «Джон Уик», а также в фильмах «На гребне волны», «Мой личный штат Айдахо», «Дракула», «Скорость», «Джонни-мнемоник», «Адвокат дьявола», «Константин: Повелитель тьмы» и «Короли улиц».",
+               "typeface": "body1",
+               "text_color": "default",
+               "max_lines": 0
+            },
+            "paddings": {
+               "left": "8x",
+               "top": "4x",
+               "right": "8x"
+            }
+         },
+         {
+            "type": "text_cell_view",
+            "content": {
+               "text": "Подробнее",
+               "typeface": "button1",
+               "text_color": "brand",
+               "max_lines": 3,
+               "actions": [
+                  {
+                     "type": "deep_link",
+                     "deep_link": "https://ru.wikipedia.org/wiki?curid=107619"
+                  }
+               ],
+               "log_id": "axon_link_1666613732366"
+            },
+            "paddings": {
+               "left": "8x",
+               "top": "8x",
+               "right": "8x"
+            }
+         }
+      ]
+   }
+}
