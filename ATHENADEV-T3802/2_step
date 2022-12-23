@@ -1,1 +1,24 @@
-{ "items": [ { "command": { "type": "action", "action": { "type": "server_action", "message_name": "", "server_action": { "fake_key": "fake_value" } } } } ] }
+	{
+		"items": [
+			{
+				"bubble": {
+					"text": "Команда с server action"
+				}
+			},
+			{
+				"command" : {
+					"action" : {
+						"message_name" : "RUN_APP",
+						"server_action" : {
+							"action_id" : "run_app",
+							"app_info" : {
+								"systemName" : "any"
+							}
+						},
+						"type" : "server_action"
+					},
+					"type" : "action"
+				}
+			}
+		]
+	}
