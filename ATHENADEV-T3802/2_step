@@ -1,0 +1,1 @@
+{ "items": [ { "command": { "type": "action", "action": { "type": "server_action", "message_name": "", "server_action": { "fake_key": "fake_value" } } } } ] }
