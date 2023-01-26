@@ -1,0 +1,14 @@
+{
+
+  "items": [
+    {
+      "command": {
+                "type": "setcookie",
+                "cookies": {
+                        "SWJSESSIONID": "647072b25f9492c51adabfc41a3bfd1d",
+                        "ONEMORECOOKIE": "123123123asd"
+                }
+            }
+    }
+  ]
+}
