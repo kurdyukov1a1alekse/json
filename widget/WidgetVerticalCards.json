@@ -1,0 +1,317 @@
+{
+   "items": [
+      {
+         "card": {
+            "type": "widget_vertical_cards",
+            "items": [
+               {
+                  "type": "discovery_card",
+                  "cells": {
+                     "bottom_cell": {
+                        "type": "text_cell_view",
+                        "content": {
+                           "text": "Авто-\nответчик0",
+                           "typeface": "caption",
+                           "alignment": "center",
+                           "max_lines": 2,
+                           "text_color": "secondary"
+                        },
+                        "gravity": "center",
+                        "paddings": {
+                           "top": "2x"
+                        }
+                     }
+                  },
+                  "height": {
+                     "type": "fixed",
+                     "value": 100
+                  },
+                  "width": {
+                     "type": "match_parent"
+                  },
+                  "paddings": {
+                     "top": "4x",
+                     "left": "2x",
+                     "right": "4x"
+                  },
+                  "aspect_ratio": "1:1",
+                  "width_columns": 1,
+                  "background_color": "#123456"
+               },
+               {
+                  "type": "discovery_card",
+                  "cells": {
+                     "bottom_cell": {
+                        "type": "text_cell_view",
+                        "content": {
+                           "text": "Авто-\nответчик1",
+                           "typeface": "caption",
+                           "alignment": "center",
+                           "max_lines": 2,
+                           "text_color": "secondary"
+                        },
+                        "gravity": "center",
+                        "paddings": {
+                           "top": "2x"
+                        }
+                     }
+                  },
+                  "height": {
+                     "type": "fixed",
+                     "value": 100
+                  },
+                  "width": {
+                     "type": "match_parent"
+                  },
+                  "paddings": {
+                     "top": "4x",
+                     "left": "2x",
+                     "right": "4x"
+                  },
+                  "aspect_ratio": "1:1",
+                  "width_columns": 1,
+                  "background_color": "#123456"
+               },
+               {
+                  "type": "discovery_card",
+                  "cells": {
+                     "bottom_cell": {
+                        "type": "text_cell_view",
+                        "content": {
+                           "text": "Авто-\nответчик2",
+                           "typeface": "caption",
+                           "alignment": "center",
+                           "max_lines": 2,
+                           "text_color": "secondary"
+                        },
+                        "gravity": "center",
+                        "paddings": {
+                           "top": "2x"
+                        }
+                     }
+                  },
+                  "height": {
+                     "type": "fixed",
+                     "value": 100
+                  },
+                  "width": {
+                     "type": "match_parent"
+                  },
+                  "paddings": {
+                     "top": "4x",
+                     "left": "2x",
+                     "right": "4x"
+                  },
+                  "aspect_ratio": "1:1",
+                  "width_columns": 1,
+                  "background_color": "#123456"
+               },
+               {
+                  "type": "discovery_card",
+                  "cells": {
+                     "bottom_cell": {
+                        "type": "text_cell_view",
+                        "content": {
+                           "text": "Авто-\nответчик3",
+                           "typeface": "caption",
+                           "alignment": "center",
+                           "max_lines": 2,
+                           "text_color": "secondary"
+                        },
+                        "gravity": "center",
+                        "paddings": {
+                           "top": "2x"
+                        }
+                     }
+                  },
+                  "height": {
+                     "type": "fixed",
+                     "value": 100
+                  },
+                  "width": {
+                     "type": "match_parent"
+                  },
+                  "paddings": {
+                     "top": "4x",
+                     "left": "2x",
+                     "right": "4x"
+                  },
+                  "aspect_ratio": "1:1",
+                  "width_columns": 1,
+                  "background_color": "#123456"
+               },
+               {
+                  "type": "discovery_card",
+                  "cells": {
+                     "bottom_cell": {
+                        "type": "text_cell_view",
+                        "content": {
+                           "text": "Авто-\nответчик4",
+                           "typeface": "caption",
+                           "alignment": "center",
+                           "max_lines": 2,
+                           "text_color": "secondary"
+                        },
+                        "gravity": "center",
+                        "paddings": {
+                           "top": "2x"
+                        }
+                     }
+                  },
+                  "height": {
+                     "type": "fixed",
+                     "value": 100
+                  },
+                  "width": {
+                     "type": "match_parent"
+                  },
+                  "paddings": {
+                     "top": "4x",
+                     "left": "2x",
+                     "right": "4x"
+                  },
+                  "aspect_ratio": "1:1",
+                  "width_columns": 1,
+                  "background_color": "#123456"
+               },
+               {
+                  "type": "discovery_card",
+                  "cells": {
+                     "bottom_cell": {
+                        "type": "text_cell_view",
+                        "content": {
+                           "text": "Авто-\nответчик5",
+                           "typeface": "caption",
+                           "alignment": "center",
+                           "max_lines": 2,
+                           "text_color": "secondary"
+                        },
+                        "gravity": "center",
+                        "paddings": {
+                           "top": "2x"
+                        }
+                     }
+                  },
+                  "height": {
+                     "type": "fixed",
+                     "value": 100
+                  },
+                  "width": {
+                     "type": "match_parent"
+                  },
+                  "paddings": {
+                     "top": "4x",
+                     "left": "2x",
+                     "right": "4x"
+                  },
+                  "aspect_ratio": "1:1",
+                  "width_columns": 1,
+                  "background_color": "#123456"
+               },
+               {
+                  "type": "discovery_card",
+                  "cells": {
+                     "bottom_cell": {
+                        "type": "text_cell_view",
+                        "content": {
+                           "text": "Авто-\nответчик6",
+                           "typeface": "caption",
+                           "alignment": "center",
+                           "max_lines": 2,
+                           "text_color": "secondary"
+                        },
+                        "gravity": "center",
+                        "paddings": {
+                           "top": "2x"
+                        }
+                     }
+                  },
+                  "height": {
+                     "type": "fixed",
+                     "value": 100
+                  },
+                  "width": {
+                     "type": "match_parent"
+                  },
+                  "paddings": {
+                     "top": "4x",
+                     "left": "2x",
+                     "right": "4x"
+                  },
+                  "aspect_ratio": "1:1",
+                  "width_columns": 1,
+                  "background_color": "#123456"
+               },
+               {
+                  "type": "discovery_card",
+                  "cells": {
+                     "bottom_cell": {
+                        "type": "text_cell_view",
+                        "content": {
+                           "text": "Авто-\nответчик7",
+                           "typeface": "caption",
+                           "alignment": "center",
+                           "max_lines": 2,
+                           "text_color": "secondary"
+                        },
+                        "gravity": "center",
+                        "paddings": {
+                           "top": "2x"
+                        }
+                     }
+                  },
+                  "height": {
+                     "type": "fixed",
+                     "value": 100
+                  },
+                  "width": {
+                     "type": "match_parent"
+                  },
+                  "paddings": {
+                     "top": "4x",
+                     "left": "2x",
+                     "right": "4x"
+                  },
+                  "aspect_ratio": "1:1",
+                  "width_columns": 1,
+                  "background_color": "#123456"
+               },
+               {
+                  "type": "discovery_card",
+                  "cells": {
+                     "bottom_cell": {
+                        "type": "text_cell_view",
+                        "content": {
+                           "text": "Авто-\nответчик8",
+                           "typeface": "caption",
+                           "alignment": "center",
+                           "max_lines": 2,
+                           "text_color": "secondary"
+                        },
+                        "gravity": "center",
+                        "paddings": {
+                           "top": "2x"
+                        }
+                     }
+                  },
+                  "height": {
+                     "type": "fixed",
+                     "value": 100
+                  },
+                  "width": {
+                     "type": "match_parent"
+                  },
+                  "paddings": {
+                     "top": "4x",
+                     "left": "2x",
+                     "right": "4x"
+                  },
+                  "aspect_ratio": "1:1",
+                  "width_columns": 1,
+                  "background_color": "#645234"
+               }
+            ]
+         }
+      }
+   ]
+}
