@@ -1,172 +1,252 @@
 {
-   "items": [
-      {
-         "card": {
-            "type": "widget_nested_content_card",
-            "log_id": "logId",
-            "background_color": "#043C6B",
-            "paddings": {
-               "left": "8x",
-               "top": "0x",
-               "right": "8x",
-               "bottom": "8x"
-            },
-            "header": {
-               "background_image": {
-                  "url": "https://artifex.ru/wp-content/uploads/2018/03/Музыка-Korn-2.jpg",
-                  "mask": "bottom"
-               },
-               "header_cell": {
-                  "type": "left_right_cell_view",
-                  "left": {
-                     "type": "simple_left_view",
-                     "title": {
-                        "text": "Музыка",
-                        "typeface": "footnote1",
-                        "text_color": "default",
-                        "margins": {
-                           "left": "6x",
-                           "top": "6x"
-                        }
-                     }
-                  }
-               },
-               "height": {
-                  "type": "aspect_ratio",
-                  "value": 2
-               }
-            },
-            "body_cell": {
-               "type": "left_right_cell_view",
-               "paddings": {
-                  "left": "8x",
-                  "top": "0x",
-                  "right": "8x",
-                  "bottom": "2x"
-               },
-               "left": {
-                  "type": "simple_left_view",
-                  "texts": {
-                     "title": {
-                        "text": "KoЯn",
-                        "typeface": "headline3",
-                        "text_color": "default",
-                        "max_lines": 0
-                     },
-                     "subtitle": {
-                        "text": "Новости и факты",
-                        "typeface": "footnote1",
-                        "text_color": "secondary",
-                        "max_lines": 0,
-                        "margins": {
-                           "top": "4x"
-                        }
-                     }
-                  }
-               }
-            },
-            "nested_content": {
-               "type": "nested_content_list",
-               "list": [
-                  {
-                     "type": "left_right_cell_view",
-                     "paddings": {
-                        "bottom": "2x",
-                        "left": "4x"
-                     },
-                     "left": {
-                        "type": "simple_left_view",
-                        "icon": {
-                           "size": {
-                              "width": "medium",
-                              "height": "medium"
-                           },
-                           "address": {
-                              "type": "url",
-                              "url": "https://i.pinimg.com/originals/fd/6c/b9/fd6cb93fd4a235e81e28166a3d59367b.png"
-                           }
-                        },
-                        "texts": {
-                           "title": {
-                              "text": "Американская ню-метал-группа, основанная в городе Бейкерсфилд в 1993 году",
-                              "typeface": "body1",
-                              "text_color": "default",
-                              "margins": {
-                                 "bottom": "2x",
-                                 "left": "4x"
-                              },
-                              "max_lines": 0
-                           }
-                        }
-                     }
-                  },
-                  {
-                     "type": "left_right_cell_view",
-                     "paddings": {
-                        "bottom": "2x",
-                        "left": "4x"
-                     },
-                     "left": {
-                        "type": "simple_left_view",
-                        "icon": {
-                           "size": {
-                              "width": "medium",
-                              "height": "medium"
-                           },
-                           "address": {
-                              "type": "url",
-                              "url": "https://i.pinimg.com/originals/fd/6c/b9/fd6cb93fd4a235e81e28166a3d59367b.png"
-                           }
-                        },
-                        "texts": {
-                           "title": {
-                              "text": "Группа стала пионером жанра ню-метал и вывела его в мейнстрим",
-                              "typeface": "body1",
-                              "text_color": "default",
-                              "margins": {
-                                 "bottom": "2x",
-                                 "left": "4x"
-                              },
-                              "max_lines": 0
-                           }
-                        }
-                     }
-                  },
-                  {
-                     "type": "left_right_cell_view",
-                     "paddings": {
-                        "bottom": "2x",
-                        "left": "4x"
-                     },
-                     "left": {
-                        "type": "simple_left_view",
-                        "icon": {
-                           "size": {
-                              "width": "medium",
-                              "height": "medium"
-                           },
-                           "address": {
-                              "type": "url",
-                              "url": "https://i.pinimg.com/originals/fd/6c/b9/fd6cb93fd4a235e81e28166a3d59367b.png"
-                           }
-                        },
-                        "texts": {
-                           "title": {
-                              "text": "4 февраля 2022 года вышел 14-ый альбом группы - Requiem",
-                              "typeface": "body1",
-                              "text_color": "default",
-                              "margins": {
-                                 "bottom": "2x",
-                                 "left": "4x"
-                              },
-                              "max_lines": 0
-                           }
-                        }
-                     }
-                  }
-               ]
-            }
-         }
-      }
-   ]
-}
+   
+       "items": [
+          {
+             "card": {
+                "type": "widget_nested_content_card",
+                "log_id": "logId",
+                "background_color": "#043C6B",
+                "paddings": {
+                   "left": "8x",
+                   "top": "0x",
+                   "right": "8x",
+                   "bottom": "2x"
+                },
+                "header": {
+                   "background_image": {
+                      "url": "https://yucatanahora.mx/wp-content/uploads/2020/11/week.jpg",
+                      "mask": "bottom"
+                   },
+                   "header_cell": {
+                      "type": "left_right_cell_view",
+                      "left": {
+                         "type": "simple_left_view",
+                         "title": {
+                            "text": "Музыка",
+                            "typeface": "footnote1",
+                            "text_color": "default",
+                            "margins": {
+                               "left": "2x",
+                               "top": "2x"
+                            }
+                         }
+                      }
+                   },
+                   "height": {
+                      "type": "aspect_ratio",
+                      "value": 2
+                   }
+                },
+                "body_cell": {
+                   "type": "left_right_cell_view",
+                   "paddings": {
+                      "left": "8x",
+                      "top": "0x",
+                      "right": "8x",
+                      "bottom": "2x"
+                   },
+                   "left": {
+                      "type": "simple_left_view",
+                      "texts": {
+                         "title": {
+                            "text": "The Weeknd",
+                            "typeface": "headline3",
+                            "text_color": "default",
+                            "max_lines": 0
+                         },
+                         "subtitle": {
+                            "text": "Подборка самых популярных треков",
+                            "typeface": "footnote1",
+                            "text_color": "secondary",
+                            "max_lines": 0,
+                            "margins": {
+                               "top": "4x"
+                            }
+                         }
+                      }
+                   }
+                },
+                "nested_content": {
+                   "type": "nested_content_gallery",
+                   "items": [
+                      {
+                         "type": "image_text_item",
+                         "width": {
+                            "type": "fixed",
+                            "value": 150
+                         },
+                         "image": {
+                            "url": "https://st.europaplus.ru/mf/p/167560/singers/009/000941/singer-detail/5bda368cb6fabaceea716785fcd16b9b.jpg",
+                            "size": {
+                               "type": "fixed",
+                               "width": 150,
+                               "height": 150
+                            },
+                            "rounded_corners": "rounded"
+                         },
+                         "texts": {
+                            "title": {
+                               "text": "Blinding Lights",
+                               "typeface": "body1",
+                               "text_color": "default",
+                               "margins": {
+                                  "top": "4x"
+                               }
+                            },
+                            "subtitle": {
+                               "text": "The Weeknd",
+                               "typeface": "footnote1",
+                               "text_color": "secondary",
+                               "margins": {
+                                  "top": "2x",
+                                  "bottom": "4x"
+                               }
+                            }
+                         }
+                      },
+                      {
+                         "type": "image_text_item",
+                         "width": {
+                            "type": "fixed",
+                            "value": 150
+                         },
+                         "image": {
+                            "url": "https://ic-cdn.flipboard.com/nymag.com/bd870bf174c312ddf5e610ac98a700b22e2574c5/_medium.png",
+                            "size": {
+                               "type": "fixed",
+                               "width": 150,
+                               "height": 150
+                            },
+                            "rounded_corners": "circle"
+                         },
+                         "texts": {
+                            "title": {
+                               "text": "Take My Breath",
+                               "typeface": "body1",
+                               "text_color": "default",
+                               "margins": {
+                                  "top": "4x"
+                               }
+                            },
+                            "subtitle": {
+                               "text": "The Weeknd",
+                               "typeface": "footnote1",
+                               "text_color": "secondary",
+                               "margins": {
+                                  "top": "2x",
+                                  "bottom": "4x"
+                               }
+                            }
+                         }
+                      },
+                      {
+                         "type": "image_text_item",
+                         "width": {
+                            "type": "fixed",
+                            "value": 150
+                         },
+                         "image": {
+                            "url": "https://i.pinimg.com/736x/7e/49/21/7e4921d6d196d1c3cf6478427e5a406f--good-bye-rap-music.jpg",
+                            "size": {
+                               "type": "fixed",
+                               "width": 150,
+                               "height": 150
+                            },
+                            "rounded_corners": "none"
+                         },
+                         "texts": {
+                            "title": {
+                               "text": "The Hills",
+                               "typeface": "body1",
+                               "text_color": "default",
+                               "margins": {
+                                  "top": "4x"
+                               }
+                            },
+                            "subtitle": {
+                               "text": "The Weeknd",
+                               "typeface": "footnote1",
+                               "text_color": "secondary",
+                               "margins": {
+                                  "top": "2x",
+                                  "bottom": "4x"
+                               }
+                            }
+                         }
+                      },
+                      {
+                         "type": "image_text_item",
+                         "width": {
+                            "type": "fixed",
+                            "value": 150
+                         },
+                         "image": {
+                            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&rect=359%2C0%2C1683%2C883&poi=face&w=2000&h=1333&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2021%2F01%2F06%2Fthe-weeknd-3.jpg",
+                            "size": {
+                               "type": "fixed",
+                               "width": 150,
+                               "height": 150
+                            },
+                            "rounded_corners": "rounded"
+                         },
+                         "texts": {
+                            "title": {
+                               "text": "Save Your Tears",
+                               "typeface": "body1",
+                               "text_color": "default",
+                               "margins": {
+                                  "top": "4x"
+                               }
+                            },
+                            "subtitle": {
+                               "text": "The Weeknd",
+                               "typeface": "footnote1",
+                               "text_color": "secondary",
+                               "margins": {
+                                  "top": "2x",
+                                  "bottom": "4x"
+                               }
+                            }
+                         }
+                      },
+                      {
+                         "type": "image_text_item",
+                         "width": {
+                            "type": "fixed",
+                            "value": 150
+                         },
+                         "image": {
+                            "url": "https://i.pinimg.com/originals/ed/54/57/ed54571b47cb3246d3d827d0e8a8f860.jpg",
+                            "size": {
+                               "type": "fixed",
+                               "width": 150,
+                               "height": 150
+                            },
+                            "rounded_corners": "rounded"
+                         },
+                         "texts": {
+                            "title": {
+                               "text": "Starboy",
+                               "typeface": "body1",
+                               "text_color": "default",
+                               "margins": {
+                                  "top": "4x"
+                               }
+                            },
+                            "subtitle": {
+                               "text": "The Weeknd",
+                               "typeface": "footnote1",
+                               "text_color": "secondary",
+                               "margins": {
+                                  "top": "2x",
+                                  "bottom": "4x"
+                               }
+                            }
+                         }
+                      }
+                   ]
+                }
+             }
+          }
+       ]
+    }
