@@ -1,0 +1,62 @@
+{
+   "items":[
+      {
+         "card":{
+            "type":"discovery_card",
+            "background_color":"#99FFEECC",
+            "background_image":{
+               "url":"https://countryscanner.ru/wp-content/uploads/2018/07/news5-19-07-2018.jpg",
+               "mask":"bottom"
+            },
+            "width":{
+               "type":"columns",
+               "value":1
+            },
+            "height":{
+               "type":"aspect_ratio",
+               "value":1
+            },
+            "width_columns":2,
+            "aspect_ratio":"3 : 4",
+            "cells":{
+               "bottom_cell":{
+                  "type":"left_right_cell_view",
+                  "left":{
+                     "type":"simple_left_view",
+                     "icon":{
+                        "size":{
+                           "width":"medium",
+                           "height":"medium"
+                        },
+                        "address":{
+                           "type":"url",
+                           "url":"https://i.pinimg.com/originals/fd/6c/b9/fd6cb93fd4a235e81e28166a3d59367b.png"
+                        }
+                     },
+                     "texts":{
+                        "title":{
+                           "text":"Текст заголовка",
+                           "typeface":"body1",
+                           "text_color":"default",
+                           "margins":{
+                              "bottom":"2x",
+                              "left":"4x"
+                           }
+                        },
+                        "subtitle":{
+                           "text":"Текст подзаголовка",
+                           "typeface":"footnote1",
+                           "text_color":"secondary",
+                           "margins":{
+                              "left":"4x"
+                           }
+                        }
+                     }
+                  }
+               }
+            },
+            "log_id":"card_log"
+         }
+      }
+   ]
+}
