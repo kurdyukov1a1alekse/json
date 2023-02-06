@@ -2,7 +2,7 @@
    "items": [
       {
          "card": {
-            "type": "widget_nested_content_card",
+
             "log_id": "logId",
             "background_color": "#043C6B",
             "paddings": {
