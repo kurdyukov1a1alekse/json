@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "card": {
+        "type": "widget_button",
+        "style": "primary",
+        
+        "size": "medium",
+        "actions": [
+          {
+            "type": "deep_link",
+            "deep_link": "https://www.sber.ru/new"
+          }
+        ]
+      }
+    }
+  ]
+}
