@@ -5,7 +5,7 @@
         "type": "widget_button",
         "style": "primary",
         "text": "Style secondary, size medium, no icon",
-        "size": "medium",
+        "size": "small",
         "actions": [
           {
             "type": "deep_link",
