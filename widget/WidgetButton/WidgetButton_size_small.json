@@ -4,7 +4,7 @@
       "card": {
         "type": "widget_button",
         "style": "primary",
-        "text": "Style secondary, size medium, no icon",
+        "text": "Style primary, size small, no icon,Style primary, size small, no iconStyle primary, size small, no iconStyle primary, size small, no icon",
         "size": "small",
         "actions": [
           {
