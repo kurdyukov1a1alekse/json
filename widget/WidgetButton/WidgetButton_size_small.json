@@ -7,16 +7,7 @@
         "text": "Style primary, size small, no icon,Style primary, size small, no iconStyle primary, size small, no iconStyle primary, size small, no icon",
         "size": "small",
         
-                "icon": {
-          "size": {
-            "width": "medium",
-            "height": "medium"
-          },
-          "address": {
-            "type": "url",
-            "url": "https://i.pinimg.com/originals/fd/6c/b9/fd6cb93fd4a235e81e28166a3d59367b.png"
-          }
-        },
+
         
         "actions": [
           {
