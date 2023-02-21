@@ -1,109 +1,52 @@
-[
-  {
-    "card": {
+{
+   "card": {
       "type": "extended_list_card",
       "paddings": {
-        "bottom": "12x"
+         "bottom": "12x"
       },
       "cells": [
-        {
-          "type": "text_cell_view",
-          "content": {
-            "text": "«Паразиты» — южнокорейский комедийно-драматический фильм, получивший Золотую пальмовую ветвь 72-го Каннского кинофестиваля в мае 2019 года. Лауреат премии «Оскар» 2020 года в номинациях «Лучший фильм», «Лучший режиссёр», «Лучший оригинальный сценарий», «Лучший иностранный художественный фильм». Он стал первым южнокорейским фильмом, получившим премию «Оскар», а также первым фильмом не на английском языке, получившим «Оскар» в категории «Лучший фильм».",
-            "typeface": "body1",
-            "text_color": "default",
-            "max_lines": 0
-          },
-          "paddings": {
-            "left": "8x",
-            "top": "6x",
-            "right": "8x"
-          }
-        },
-        {
-          "type": "text_cell_view",
-          "content": {
-            "text": "Подробнее",
-            "typeface": "button1",
-            "text_color": "brand",
-            "max_lines": 3,
-            "actions": [
-              {
-                "type": "deep_link",
-                "deep_link": "https://ru.wikipedia.org/wiki?curid=7899722"
-              }
-            ],
-            "log_id": "axon_link_1676961108195"
-          },
-          "paddings": {
-            "left": "8x",
-            "top": "12x",
-            "right": "8x"
-          }
-        }
+         {
+            "type": "text_cell_view",
+            "content": {
+               "text": "«Паразиты» — южнокорейский комедийно-драматический фильм, получивший Золотую пальмовую ветвь 72-го Каннского кинофестиваля в мае 2019 года. Лауреат премии «Оскар» 2020 года в номинациях «Лучший фильм», «Лучший режиссёр», «Лучший оригинальный сценарий», «Лучший иностранный художественный фильм». Он стал первым южнокорейским фильмом, получившим премию «Оскар», а также первым фильмом не на английском языке, получившим «Оскар» в категории «Лучший фильм».",
+               "typeface": "body1",
+               "text_color": "default",
+               "max_lines": 0
+            },
+            "paddings": {
+               "left": "8x",
+               "top": "6x",
+               "right": "8x"
+            }
+         },
+         {
+            "type": "text_cell_view",
+            "content": {
+               "text": "Подробнее",
+               "typeface": "button1",
+               "text_color": "brand",
+               "max_lines": 3,
+               "actions": [
+                  {
+                     "type": "deep_link",
+                     "deep_link": "https://ru.wikipedia.org/wiki?curid=7899722"
+                  }
+               ],
+               "log_id": "axon_link_1676961108195"
+            },
+            "paddings": {
+               "left": "8x",
+               "top": "12x",
+               "right": "8x"
+            }
+         }
       ],
       "cell_image": {
-        "url": "https://cdn.sberdevices.ru/VA/images/Parasite.png",
-        "hash": "42b0255f3b2ad4a33b52d99881f9223e",
-        "placeholder_color": "solid_black",
-        "height": 192,
-        "fixed_ratio": "3:4"
+         "url": "https://cdn.sberdevices.ru/VA/images/Parasite.png",
+         "hash": "42b0255f3b2ad4a33b52d99881f9223e",
+         "placeholder_color": "solid_black",
+         "height": 192,
+         "fixed_ratio": "3:4"
       }
-    }
-  },
-  {
-    "card": {
-      "type": "list_card",
-      "cells": [
-        {
-          "type": "left_right_cell_view",
-          "left": {
-            "type": "simple_left_view",
-            "icon": {
-              "tint_color": "solid_brand",
-              "address": {
-                "type": "local",
-                "identificator": "other"
-              },
-              "size": {
-                "width": "medium",
-                "height": "medium"
-              },
-              "margins": {
-                "left": "8x",
-                "top": "5x",
-                "right": "6x",
-                "bottom": "5x"
-              }
-            },
-            "title": {
-              "text": "Смотреть в Okko: Паразиты",
-              "typeface": "body1",
-              "text_color": "default",
-              "max_lines": 2,
-              "margins": {
-                "top": "9x",
-                "bottom": "9x"
-              }
-            }
-          },
-          "right": {
-            "type": "disclosure_right_view",
-            "margins": {
-              "top": "8x",
-              "right": "4x",
-              "bottom": "8x"
-            }
-          },
-          "actions": [
-            {
-              "type": "deep_link",
-              "deep_link": "https://okko.tv/movie/gisaengchung"
-            }
-          ],
-          "log_id": "axon_okko_1676961108195"
-        }
-      ]
-    }
-  }
-]
+   }
+}
