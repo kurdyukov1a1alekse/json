@@ -12,12 +12,8 @@
                "type":"columns",
                "value":1
             },
-            "height":{
-               "type":"aspect_ratio",
-               "value":1
-            },
             "width_columns":2,
-            "aspect_ratio":"1 : 1",
+            "aspect_ratio":"1:1",
             "cells":{
                "bottom_cell":{
                   "type":"left_right_cell_view",
