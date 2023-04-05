@@ -11,7 +11,7 @@
                                 "type": "match_parent"
                              
                             },
-                            "width_columns":2,
+                            "width_columns":1,
                             "aspect_ratio":"16:9",
                             "cells":{
                                 "bottom_cell":{
