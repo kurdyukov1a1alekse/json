@@ -8,8 +8,8 @@
                             "type":"discovery_card",
                             "background_color":"#FF1493",
                             "width":{
-                                "type":"columns",
-                                "value":1
+                                "type":"match_parent",
+                             
                             },
                             "width_columns":2,
                             "aspect_ratio":"16:9",
