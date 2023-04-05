@@ -8,7 +8,7 @@
                             "type":"discovery_card",
                             "background_color":"#FF1493",
                             "width":{
-                                "type":"match_parent",
+                                "type":"match_parent"
                              
                             },
                             "width_columns":2,
