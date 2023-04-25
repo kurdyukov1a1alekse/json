@@ -41,7 +41,7 @@
                         },
                         "subtitle":{
                            "text":"Текст подзаголовка",
-                           "typeface":"footnote1",
+                           "typeface":"qwefootnote1",
                            "text_color":"secondary",
                            "margins":{
                               "left":"4x"
