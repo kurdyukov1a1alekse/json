@@ -22,7 +22,7 @@
                      "type": "simple_left_view",
                      "title": {
                         "text": "Музыка",
-                        "typeface": "footnote1",
+                        "typeface": "foontnote1",
                         "text_color": "default",
                         "margins": {
                            "left": "2x",
