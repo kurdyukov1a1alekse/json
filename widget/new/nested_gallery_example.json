@@ -22,7 +22,7 @@
                      "type": "simple_left_view",
                      "title": {
                         "text": "Музыка",
-                        "typeface": "foontnote1",
+                        "typeface": "footnote1",
                         "text_color": "default",
                         "margins": {
                            "left": "2x",
@@ -94,7 +94,7 @@
                         },
                         "subtitle": {
                            "text": "The Weeknd",
-                           "typeface": "foontnote1",
+                           "typeface": "footnote1",
                            "text_color": "secondary",
                            "margins": {
                               "top": "2x",
@@ -129,7 +129,7 @@
                         },
                         "subtitle": {
                            "text": "The Weeknd",
-                           "typeface": "foontnote1",
+                           "typeface": "footnote1",
                            "text_color": "secondary",
                            "margins": {
                               "top": "2x",
@@ -164,7 +164,7 @@
                         },
                         "subtitle": {
                            "text": "The Weeknd",
-                           "typeface": "foontnote1",
+                           "typeface": "footnote1",
                            "text_color": "secondary",
                            "margins": {
                               "top": "2x",
@@ -199,7 +199,7 @@
                         },
                         "subtitle": {
                            "text": "The Weeknd",
-                           "typeface": "foontnote1",
+                           "typeface": "footnote1",
                            "text_color": "secondary",
                            "margins": {
                               "top": "2x",
@@ -234,7 +234,7 @@
                         },
                         "subtitle": {
                            "text": "The Weeknd",
-                           "typeface": "foontnote1",
+                           "typeface": "footnote1",
                            "text_color": "secondary",
                            "margins": {
                               "top": "2x",
