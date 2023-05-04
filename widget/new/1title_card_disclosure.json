@@ -1,0 +1,30 @@
+{
+   "items": [
+      {
+         "card": {
+            "type": "widget_title_card",
+            "cell": {
+               "type": "left_right_cell_view",
+              "paddings": {
+                  "left": "6x",
+                  "top": "4x",
+                  "right": "4x",
+                  "bottom": "4x"
+              },
+               "left": {
+                  "type": "simple_left_view",
+                  "title": {
+                     "text": "Заголовок",
+                     "typeface": "body1",
+                     "text_color": "default"
+                  }
+               },
+               "right": {
+                  "type": "disclosure_right_view"
+               },
+               "log_id": "custom_log_id"
+            }
+         }
+      }
+   ]
+}
