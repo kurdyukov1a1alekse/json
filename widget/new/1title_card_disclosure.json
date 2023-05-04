@@ -6,7 +6,7 @@
             "cell": {
                "type": "left_right_cell_view",
               "paddings": {
-                  "left": "6x",
+                  
                   "top": "4x",
                   "right": "4x",
                   "bottom": "4x"
