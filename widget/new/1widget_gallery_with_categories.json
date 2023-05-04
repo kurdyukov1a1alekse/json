@@ -600,11 +600,7 @@
                   ],
                   "title":"Главное"
                }
-            ],
-            "items_type":"list_card",
-            "categories_paddings":{
-               "left":"4x"
-            }
+            ]
          }
       }
    ]
