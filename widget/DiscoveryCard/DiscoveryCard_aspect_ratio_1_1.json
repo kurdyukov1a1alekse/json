@@ -5,7 +5,7 @@
             "type":"discovery_card",
             "background_color":"#99FFEECC",
             "background_image":{
-               "url":"https://countryscanner.ru/wp-content/uploads/2018/07/news5-19-07-2018.jpg",
+               "url":"https://cdn.sberdevices.ru/VA/images/Keanu_Reeves.jpg",
                "mask":"bottom"
             },
             "width":{
@@ -26,7 +26,7 @@
                         },
                         "address":{
                            "type":"url",
-                           "url":"https://i.pinimg.com/originals/fd/6c/b9/fd6cb93fd4a235e81e28166a3d59367b.png"
+                           "url":"https://cdn.sberdevices.ru/VA/images/Keanu_Reeves.jpg"
                         }
                      },
                      "texts":{
