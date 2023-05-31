@@ -35,7 +35,7 @@
                      "aspect_ratio": "1:1",
                      "background_color": "#407bb3",
                      "background_image": {
-                        "url": "https://a.d-cd.net/a582d6cs-960.jpg",
+                        "url": "https://cdn.sberdevices.ru/VA/images/Keanu_Reeves.jpg",
                         "size": {
                            "type": "match_parent"
                         },
@@ -72,7 +72,7 @@
                      "aspect_ratio": "1:1",
                      "background_color": "#407bb3",
                      "background_image": {
-                        "url": "https://a.d-cd.net/a582d6cs-960.jpg",
+                        "url": "https://cdn.sberdevices.ru/VA/images/Keanu_Reeves.jpg",
                         "size": {
                            "type": "match_parent"
                         }
@@ -112,7 +112,7 @@
                      "aspect_ratio": "1:1",
                      "background_color": "#407bb3",
                      "background_image": {
-                        "url": "https://a.d-cd.net/a582d6cs-960.jpg",
+                        "url": "https://cdn.sberdevices.ru/VA/images/Keanu_Reeves.jpg",
                         "size": {
                            "type": "fixed",
                            "width": 100,
@@ -154,7 +154,7 @@
                      "aspect_ratio": "1:1",
                      "background_color": "#407bb3",
                      "background_image": {
-                        "url": "https://a.d-cd.net/a582d6cs-960.jpg",
+                        "url": "https://cdn.sberdevices.ru/VA/images/Keanu_Reeves.jpg",
                         "size": {
                            "type": "fixed",
                            "width": 100,
