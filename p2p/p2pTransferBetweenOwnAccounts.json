@@ -1,0 +1,38 @@
+	{
+	  "items": [
+		{
+		  "bubble": {
+			"markdown": true,
+			"text": "На какой из счетов хотите перевести?"
+		  }
+		},
+		{
+		  "card": {
+			"bank_accounts": [
+			  {
+				"action": {
+				  "text": "MasterCard 9771"
+				},
+				"balance": "100 ₽",
+				"icon_local": "card_mc",
+				"name": "MasterCard",
+				"number": "****9771",
+				"accessibility": "Алтернативная MasterCard последние цифры 9771, нажмите чтобы выбрать",
+			  },
+			  {
+				"action": {
+				  "text": "Накопительный счет 8198"
+				},
+				"balance": "0,05 ₽",
+				"icon_local": "safe",
+				"name": "Накопительный счет",
+				"number": "****8198",
+				"accessibility": "Альтернативная MasterCard последние цифры 8198, нажмите чтобы выбрать",
+			  }
+			],
+			"title": "Счет зачисления",
+			"type": "p2p_bank_account_selection"
+		  }
+		}
+	  ]
+	}
