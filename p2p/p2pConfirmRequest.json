@@ -1,0 +1,45 @@
+	{
+		"items": [
+			{
+			   "card":{
+				  "type":"p2p_transfer_confirmation",
+				  "title":"Перевод клиенту Сбербанка",
+				  "subtitle":"ЕКАТЕРИНА СЕРГЕЕВНА М.",
+				  "accessibility": "Альтернативная озвучка всей карточки целиком",
+				  "contact_info":{
+					 "title": "Получатель",
+					 "name":"ЕКАТЕРИНА СЕРГЕЕВНА М.",
+					 "phone":"+7 (903) 333-53-53",
+					 "action":{
+						"text":"many"
+					 }
+				  },
+				  "bank_account_info":{
+					 "title":"Счет списания",
+					 "name":"MasterCard Mass MSK",
+					 "number":"5469 44** **** 9955",
+					 "icon_local": "card_amex",
+					 "balance":"999999 руб",
+					 "action":{
+						"text":"card"
+					 }
+				  },
+				  "transfer_amount_info":{
+					 "icon_url":"https://sberbank.ru/transfer.jpg",
+					 "title":"Сумма перевода",
+					 "value":"100 руб",
+					 "transfer_fee": "За данную операцию может взиматься комиссия в соответсвии с тарифами банка.",
+					 "action":{
+						"text":"Изменить сумму"
+					 }
+				  },
+				  "confirmation_button":{
+					 "text":"Продолжить",
+					 "action":{
+						"text":"мк_Подтверждаю"
+					 }
+				  }
+			   }
+			}
+		]
+	}
