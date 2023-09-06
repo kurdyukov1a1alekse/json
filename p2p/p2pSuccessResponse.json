@@ -1,0 +1,18 @@
+	{
+		"items": [
+			{
+				"card":{
+				  "type":"p2p_transfer_result",
+				  "title":"Перевод выполнен",
+				  "addressee":"ЕКАТЕРИНА СЕРГЕЕВНА М.",
+				  "transfer_amount":"5000.01 руб",
+				  "icon_url":"https://sberbank.ru/transfer_success.png",
+				  "accessibility": "Альтернативная озвучка всей карточки целиком",
+				  "style":"success",
+				  "action": {
+					"deep_link": "sberbankonline://payments/create-autopayment-betweenother"
+				  }
+			   }
+			}
+		]
+	}
