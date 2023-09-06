@@ -1,0 +1,27 @@
+	{
+		"items": [
+			{
+				"card": {
+					"type": "p2p_contact_selection",
+					"title": "Контакты",
+					"contacts": [
+						{
+							"id": 0,
+							"action": {
+								"template": "Вася РемонтМашин\\n[[placeholder]]",
+								"send_contact_phone": 0
+							},
+							"accessibility": "Альтернатива Контакт Вася Ремонт Машин"
+						},
+						{
+							"id": 2,
+							"action": {
+								"template": "Вася РемонтМашин\\n[[placeholder]]",
+								"send_contact_phone": 2
+							}
+						}
+					]
+				}
+			}
+		]
+	}
