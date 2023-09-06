@@ -1,0 +1,53 @@
+	{
+		"items": [
+			{
+				"card": {
+					"type": "p2p_bank_account_selection",
+					"title": "Банковские карты",
+					"bank_accounts": [
+						{
+							"name": "MasterCard",
+							"number": "** 0000",
+							"balance": "19234,24 руб",
+							"icon_url": "https://sberbank.ru/contacts/1000.jpg",
+							"icon_local": "card_visa",
+							"action": {
+								"text": "p2p"
+							},
+							"accessibility": "Альтернатива MasterCard номер ** 0000 баланс 19234,24 руб"
+						},
+						{
+							"name": "Visa",
+							"number": "** 4321",
+							"balance": "234 руб",
+							"icon_url": "https://sberbank.ru/contacts/1000.jpg",
+							"icon_local": "card_mc",
+							"action": {
+								"text": "p2p"
+							}
+						},
+						{
+							"name": "NoName",
+							"number": "** 4321",
+							"balance": "234 руб",
+							"icon_url": "https://sberbank.ru/contacts/1000.jpg",
+							"icon_local": "card_ghost",
+							"action": {
+								"text": "p2p"
+							}
+						},
+						{
+							"name": "Visa Gold My pressure Visa Gold My pressure Visa Gold My pressure Visa Gold My pressure",
+							"icon_local": "card_mir",
+							"number": "** 1234 My pressure Visa Gold My pressure Visa Gold My pressure Visa Gold My pressure",
+							"balance": "450 руб",
+							"icon_url": "https://sberbank.ru/contacts/1000.jpg",
+							"action": {
+								"text": "p2p"
+							}
+						},
+					]
+				}
+			}
+		]
+	}
