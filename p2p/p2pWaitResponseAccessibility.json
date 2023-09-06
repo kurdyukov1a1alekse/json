@@ -1,0 +1,21 @@
+	{
+		"items": [
+			{
+				"card": {
+					"type": "p2p_transfer_result",
+					"title": "Перевод выполнен успешно!",
+					"addressee": "Илья Богданович",
+					"transfer_amount": "1010 \\u20BD",
+					"style": "blocked",
+					"icon_url": "https://sberbank.ru/transfer_result/success.jpg",
+					"action_button": {
+					"text": "Позвонить в банк",
+					"action": {
+						"deep_link": "sberbankonline://payments/create-autopayment-betweenother"
+					},
+					"accessibility": "Альтернативная озвучка действия"
+					}
+				}
+			}
+		]
+	}
