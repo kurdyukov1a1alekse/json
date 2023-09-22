@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "command": {
+        "type": "request_contact_phones",
+        "ids": [
+          0,
+          1,
+          2
+        ]
+      }
+    }
+  ]
+}
