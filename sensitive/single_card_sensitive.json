@@ -2,7 +2,7 @@
   "items": [
     {
       "card": {
-        "can_be_disabled": "true",
+        "can_be_disabled": true,
         "type": "list_card",
         "paddings": {
           "top": "4x",
