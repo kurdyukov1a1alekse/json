@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "card": {
+        "type": "list_card",
+        "paddings": {
+          "top": "9x",
+          "bottom": "12x",
+          "left": "8x",
+          "right": "8x"
+        },
+        "cells": [
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "Прогноз отпускных за ежегодный отпуск",
+              "typeface": "headline3",
+              "text_color": "default",
+              "max_lines": 2
+            },
+            "paddings": {
+              "bottom": "2x"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "21-28 февраля, 2022",
+              "typeface": "footnote2",
+              "text_color": "secondary"
+            },
+            "paddings": {
+              "bottom": "2x"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "18 290,92 ₽*",
+              "typeface": "headline1",
+              "text_color": "default",
+              "sensitive": true
+            },
+            "paddings": {
+              "bottom": "2x"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "До вычета налогов и удержаний",
+              "typeface": "footnote2",
+              "text_color": "brand"
+            },
+            "divider": {
+              "style": "default",
+              "size": "d1"
+            },
+            "paddings": {
+              "bottom": "2x"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "* Фактическая сумма выплаты может отличаться, если к расчету отпускных изменятся данные. Например, кол-во отработанных дней",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "max_lines": 0
+            },
+            "paddings": {
+              "top": "6x"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
