@@ -45,6 +45,18 @@
               "bottom": "2x"
             }
           },
+                    {
+            "type": "text_cell_view",
+            "content": {
+              "text": "122 240,91 ₽*",
+              "typeface": "headline1",
+              "text_color": "default",
+              "sensitive": true
+            },
+            "paddings": {
+              "bottom": "2x"
+            }
+          },
           {
             "type": "text_cell_view",
             "content": {
