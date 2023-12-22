@@ -1,0 +1,22 @@
+{    "items": [
+        {
+            "card": {
+                "type": "p2p_bank_account_selection",
+                "title": "Банковские карты",
+                "bank_accounts": [
+                    {
+                        "name": "MasterCard",
+                        "number": "** 0000",
+                        "balance": "19234,24 руб",
+                        "icon_url": "https://cdn.sberdevices.ru/VA/images/prime/zvooq.png",
+                        "icon_local": "card_visa",
+                        "action": {
+                            "text": "p2p"
+                        },
+                        "accessibility": "Альтернатива MasterCard номер ** 0000 баланс 19234,24 руб"
+                    },
+                ]
+            }
+        }
+    ]
+}
