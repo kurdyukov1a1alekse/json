@@ -9,7 +9,7 @@
                         "number": "** 0000",
                         "balance": "19234,24 руб",
                         "icon_url": "https://cdn.sberdevices.ru/VA/images/prime/zvooq.png",
-                        "icon_local": "card_visa",
+
                         "action": {
                             "text": "p2p"
                         },
