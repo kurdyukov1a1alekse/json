@@ -1,0 +1,207 @@
+{
+  "items": [
+    {
+      "card": {
+        "type": "gallery_card",
+        "can_be_disabled": true,
+        "items": [
+          {
+            "type": "media_gallery_item",
+            "image": {
+              "url": "https://content.sberdevices.ru/smartmarket-smide-prod/94853/94854/s0YeUcWLvnwDAM7v.png",
+              "hash": "fed44ab9b2ce7eb7b2ace096b8a8a4ef",
+              "size": {
+                "width": "medium",
+                "aspect_ratio": 1
+              }
+            },
+            "margins": {
+              "top": "4x",
+              "left": "6x",
+              "right": "6x",
+              "bottom": "5x"
+            },
+            "bottom_text": {
+              "text": "Долг",
+              "typeface": "caption",
+              "text_color": "secondary",
+              "max_lines": 10,
+              "margins": {
+                "top": "2x",
+                "bottom": "5x"
+              }
+            },
+            "top_text": {
+              "text": "Сборник анекдотов Долга",
+              "typeface": "footnote1",
+              "text_color": "default",
+              "max_lines": 5
+            },
+            "actions": [
+              {
+                "text": "Долг",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "media_gallery_item",
+            "image": {
+              "url": "https://content.sberdevices.ru/smartmarket-smide-prod/94853/94854/P6I2Pi7GzyPtxwRo.jpg",
+              "hash": "c3f0c17bfdcdc2c9c0fd1139566be9d6",
+              "size": {
+                "width": "medium",
+                "aspect_ratio": 1
+              }
+            },
+            "margins": {
+              "top": "4x",
+              "left": "6x",
+              "right": "6x",
+              "bottom": "5x"
+            },
+            "bottom_text": {
+              "text": "Сборник анекдотов Бандитов",
+              "typeface": "caption",
+              "text_color": "secondary",
+              "max_lines": 10,
+              "margins": {
+                "top": "2x",
+                "bottom": "5x"
+              }
+            },
+            "top_text": {
+              "text": "Бандиты",
+              "typeface": "footnote1",
+              "text_color": "default",
+              "max_lines": 5
+            },
+            "actions": [
+              {
+                "text": "Бандиты",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "media_gallery_item",
+            "image": {
+              "url": "https://content.sberdevices.ru/smartmarket-smide-prod/94853/94854/z4Pp3MMQOJ0EExAd.jpg",
+              "hash": "90e9e52bdac94f1bce01b1ee164e6594",
+              "size": {
+                "width": "medium",
+                "aspect_ratio": 1
+              }
+            },
+            "margins": {
+              "top": "4x",
+              "left": "6x",
+              "right": "6x",
+              "bottom": "5x"
+            },
+            "bottom_text": {
+              "text": "Свобода",
+              "typeface": "caption",
+              "text_color": "secondary",
+              "max_lines": 10,
+              "margins": {
+                "top": "2x",
+                "bottom": "5x"
+              }
+            },
+            "top_text": {
+              "text": "Сборник анекдотов Свободы",
+              "typeface": "footnote1",
+              "text_color": "default",
+              "max_lines": 5
+            },
+            "actions": [
+              {
+                "text": "Cвобода",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "media_gallery_item",
+            "image": {
+              "url": "https://content.sberdevices.ru/smartmarket-smide-prod/165891/165892/9YPUeCUMfBW9Ptmm.png",
+              "hash": "ee773c3951ec81de1ad086c1ebfb8227",
+              "size": {
+                "width": "medium",
+                "aspect_ratio": 1
+              }
+            },
+            "margins": {
+              "top": "4x",
+              "left": "6x",
+              "right": "6x",
+              "bottom": "5x"
+            },
+            "bottom_text": {
+              "text": "Одиночки",
+              "typeface": "caption",
+              "text_color": "secondary",
+              "max_lines": 10,
+              "margins": {
+                "top": "2x",
+                "bottom": "5x"
+              }
+            },
+            "top_text": {
+              "text": "Сборник анекдотов Одиночек",
+              "typeface": "footnote1",
+              "text_color": "default",
+              "max_lines": 5
+            },
+            "actions": [
+              {
+                "text": "Одиночки",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "media_gallery_item",
+            "image": {
+              "url": "https://content.sberdevices.ru/smartmarket-smide-prod/94853/94854/74izSqkGLlqKPdh8.jpg",
+              "hash": "a34912f9eace0ac7a5b6d18feab3bcf6",
+              "size": {
+                "width": "medium",
+                "aspect_ratio": 1
+              }
+            },
+            "margins": {
+              "top": "4x",
+              "left": "6x",
+              "right": "6x",
+              "bottom": "5x"
+            },
+            "bottom_text": {
+              "text": "Бар",
+              "typeface": "caption",
+              "text_color": "secondary",
+              "max_lines": 10,
+              "margins": {
+                "top": "2x",
+                "bottom": "5x"
+              }
+            },
+            "top_text": {
+              "text": "Бар",
+              "typeface": "footnote1",
+              "text_color": "default",
+              "max_lines": 5
+            },
+            "actions": [
+              {
+                "text": "Бар",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
