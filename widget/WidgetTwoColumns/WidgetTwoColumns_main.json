@@ -36,6 +36,7 @@
                      "background_color": "#407bb3",
                      "background_image": {
                         "url": "https://cdn.sberdevices.ru/VA/images/Keanu_Reeves.jpg",
+                        "hash": "7b14b751b8ea164f661f2a033a335b82",
                         "size": {
                            "type": "match_parent"
                         },
@@ -73,6 +74,7 @@
                      "background_color": "#407bb3",
                      "background_image": {
                         "url": "https://cdn.sberdevices.ru/VA/images/Keanu_Reeves.jpg",
+                        "hash": "7b14b751b8ea164f661f2a033a335b82",
                         "size": {
                            "type": "match_parent"
                         }
@@ -113,6 +115,7 @@
                      "background_color": "#407bb3",
                      "background_image": {
                         "url": "https://cdn.sberdevices.ru/VA/images/Keanu_Reeves.jpg",
+                        "hash": "7b14b751b8ea164f661f2a033a335b82",
                         "size": {
                            "type": "fixed",
                            "width": 100,
@@ -155,6 +158,7 @@
                      "background_color": "#407bb3",
                      "background_image": {
                         "url": "https://cdn.sberdevices.ru/VA/images/Keanu_Reeves.jpg",
+                        "hash": "7b14b751b8ea164f661f2a033a335b82",
                         "size": {
                            "type": "fixed",
                            "width": 100,
